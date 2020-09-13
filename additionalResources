@@ -1,0 +1,33 @@
+
+Intro -
+https://www.red-gate.com/simple-talk/cloud/cloud-data/overview-of-azure-cosmos-db/
+
+
+BASE -
+https://stackoverflow.com/questions/3342497/explanation-of-base-terminology#:~:text=The%20BASE%20acronym%20is%20used,certain%20databases%2C%20usually%20NoSQL%20databases.&text=There%20are%20only%20few%20articles,consistency%2C%20isolation%20and%20durability%20properties.
+
+https://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/
+
+Use cases-
+https://docs.microsoft.com/en-us/azure/cosmos-db/use-cases
+
+Consistancy/ARS - 
+https://www.red-gate.com/simple-talk/cloud/cloud-data/overview-of-azure-cosmos-db/
+https://www.sqlshack.com/8-things-know-azure-cosmos-db-formerly-documentdb/
+
+Relational db vs Cosmosdb
+https://www.jamesserra.com/archive/2018/06/understanding-cosmos-db/
+
+Learning path-
+https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/
+https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/
+https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/
+
+Complex queries
+https://www.red-gate.com/simple-talk/sql/nosql-databases/sql-for-cosmos-db-handling-complex-json-structures/
+
+Reference Architechture
+http://ilikesqldata.com/azure-cosmos-db-a-competitive-advantage-for-healthcare-isvs/
+http://www.mnazureusergroup.com/2018/06/28/the-emerging-big-data-architectural-pattern/
+https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-ai-engineers/
+
